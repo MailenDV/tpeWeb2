@@ -1,1 +1,1 @@
-admin@admin.com (password "123")
+mai@admi.com (password "123456")
